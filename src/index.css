@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Lato", sans-serif;
+  overscroll-behavior-x: none;
+  overflow-x: hidden;
+}
+.bbb {
+  border: 1px solid red;
+}
+/* .outline-text {
+  -webkit-text-stroke: 3px black;
+  color: transparent;
+} */
